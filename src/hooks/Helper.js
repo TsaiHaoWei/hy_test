@@ -11,7 +11,7 @@ export const generateGuid32 = () => {
 };
 
 // 產生 10 碼隨機密碼
-export const generateRandomPasswordTestTonyUpdate1 = () => {
+export const generateRandomPasswordTestTonyUpdate123 = () => {
   const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%&";
   let password = "";
 
